@@ -1,0 +1,10 @@
+C:\Users\Učenik6\source\repos\14KlasaProcess\14KlasaProcess\bin\Debug\14KlasaProcess.exe.config
+C:\Users\Učenik6\source\repos\14KlasaProcess\14KlasaProcess\bin\Debug\14KlasaProcess.exe
+C:\Users\Učenik6\source\repos\14KlasaProcess\14KlasaProcess\bin\Debug\14KlasaProcess.pdb
+C:\Users\Učenik6\source\repos\14KlasaProcess\14KlasaProcess\obj\Debug\14KlasaProcess.csprojAssemblyReference.cache
+C:\Users\Učenik6\source\repos\14KlasaProcess\14KlasaProcess\obj\Debug\_14KlasaProcess.Form1.resources
+C:\Users\Učenik6\source\repos\14KlasaProcess\14KlasaProcess\obj\Debug\_14KlasaProcess.Properties.Resources.resources
+C:\Users\Učenik6\source\repos\14KlasaProcess\14KlasaProcess\obj\Debug\14KlasaProcess.csproj.GenerateResource.cache
+C:\Users\Učenik6\source\repos\14KlasaProcess\14KlasaProcess\obj\Debug\14KlasaProcess.csproj.CoreCompileInputs.cache
+C:\Users\Učenik6\source\repos\14KlasaProcess\14KlasaProcess\obj\Debug\14KlasaProcess.exe
+C:\Users\Učenik6\source\repos\14KlasaProcess\14KlasaProcess\obj\Debug\14KlasaProcess.pdb
